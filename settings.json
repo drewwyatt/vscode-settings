@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "tslint.enable": true,
+  "tslint.autoFixOnSave": true,
+  "window.zoomLevel": 0,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 4,
+  "workbench.colorTheme": "Spacemacs - dark",
+  "workbench.iconTheme": "vs-rusty-icons",
+  "git.autofetch": true,
+  "gitlens.gitExplorer.files.layout": "tree"
+}
